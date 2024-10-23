@@ -1,0 +1,15 @@
+{
+  "@@locale": "en",
+  "generateButtonText": "Generate Speech",
+  "@generateButtonText": {
+    "description": "Text shown on the generate button."
+  },
+  "cancelButtonText": "Cancel",
+  "@cancelButtonText": {
+    "description": "Text shown on the cancel button."
+  },
+  "downloadedInfoText": "Downloaded",
+  "@downloadedInfoText": {
+    "description": "Text shown on successful download."
+  }
+}

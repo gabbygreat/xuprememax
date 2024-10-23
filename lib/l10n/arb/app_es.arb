@@ -1,0 +1,15 @@
+{
+  "@@locale": "es",
+  "generateButtonText": "Generar discurso",
+  "@generateButtonText": {
+    "description": "Texto que se muestra en el botón generar."
+  },
+  "cancelButtonText": "Cancel",
+  "@cancelButtonText": {
+    "description": "Text shown on the cancel button."
+  },
+  "downloadedInfoText": "Descargada",
+  "@downloadedInfoText": {
+    "description": "Texto mostrado en descarga exitosa."
+  }
+}
